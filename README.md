@@ -12,4 +12,4 @@ Akshat Jain, Wanzhao Zhang, Weiting Wang
 5. [zenodo](https://zenodo.org/records/10891602)
 6. [Codalab](https://codalab.lisn.upsaclay.fr/competitions/19955#results)
 7. [Named Entity Recognition and Classification with Scikit-Learn](https://towardsdatascience.com/named-entity-recognition-and-classification-with-scikit-learn-f05372f07ba2)
-8.[Named Entity Recognition with NLTK and SpaCy](https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da)
+8. [Named Entity Recognition with NLTK and SpaCy](https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da)
