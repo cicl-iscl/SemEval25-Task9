@@ -11,4 +11,5 @@ Akshat Jain, Wanzhao Zhang, Weiting Wang
 4. [“Why Should I Trust You?”: Explaining the Predictions of Any Classifier](https://aclanthology.org/N16-3020/)
 5. [zenodo](https://zenodo.org/records/10891602)
 6. [Codalab](https://codalab.lisn.upsaclay.fr/competitions/19955#results)
+7. [Named Entity Recognition and Classification with Scikit-Learn](https://towardsdatascience.com/named-entity-recognition-and-classification-with-scikit-learn-f05372f07ba2)
 
