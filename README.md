@@ -12,3 +12,4 @@ Akshat Jain, Wanzhao Zhang, Weiting Wang
 5. [zenodo](https://zenodo.org/records/10891602)
 6. [Codalab](https://codalab.lisn.upsaclay.fr/competitions/19955#results)
 7. Format of [thesis](https://semeval.github.io/system-paper-template.html)
+8. [multi--differentiation](https://medium.com/@yanliao9942/multi-class-classification-vs-multi-task-classification-multi-label-classificaiton-b16ae80db611)
