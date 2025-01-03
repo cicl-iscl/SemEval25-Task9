@@ -13,3 +13,5 @@ Akshat Jain, Wanzhao Zhang, Weiting Wang
 6. [Codalab](https://codalab.lisn.upsaclay.fr/competitions/19955#results)
 7. Format of [thesis](https://semeval.github.io/system-paper-template.html)
 8. [multi--differentiation](https://medium.com/@yanliao9942/multi-class-classification-vs-multi-task-classification-multi-label-classificaiton-b16ae80db611)
+9. data [augmentation](https://medium.com/walmartglobaltech/augmentation-techniques-for-imbalanced-text-classification-f0d29c0f8ce1)
+10. back [translation](https://dzlab.github.io/dltips/en/pytorch/text-augmentation/)
