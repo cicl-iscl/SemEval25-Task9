@@ -10,7 +10,7 @@ Weiting Wang, Wanzhao Zhang, Akshat Jain
 3. [From the Detection of Toxic Spans in Online Discussions to the Analysis of Toxic-to-Civil Transfer](https://aclanthology.org/2022.acl-long.259/), [toxic span](https://github.com/ipavlopoulos/toxic_spans/tree/master) example
 4. [“Why Should I Trust You?”: Explaining the Predictions of Any Classifier](https://aclanthology.org/N16-3020/)
 5. [zenodo](https://zenodo.org/records/10891602)
-6. esults website [Codalab]([https://codalab.lisn.upsaclay.fr/competitions/19955#results](https://codalab.lisn.upsaclay.fr/competitions/19955#results))
+6. Results website [Codalab](https://codalab.lisn.upsaclay.fr/competitions/19955#results)(https://codalab.lisn.upsaclay.fr/competitions/19955#results))
 7. Format of [thesis](https://semeval.github.io/system-paper-template.html)
 8. [multi--differentiation](https://medium.com/@yanliao9942/multi-class-classification-vs-multi-task-classification-multi-label-classificaiton-b16ae80db611)
 9. data [augmentation](https://medium.com/walmartglobaltech/augmentation-techniques-for-imbalanced-text-classification-f0d29c0f8ce1)
