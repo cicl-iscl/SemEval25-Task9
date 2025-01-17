@@ -2,7 +2,7 @@
 This is repository for [SemEval 2025 Task9 The Food Hazard Detection Challenge](https://food-hazard-detection-semeval-2025.github.io/)
 
 ## Group Members
-Akshat Jain, Wanzhao Zhang, Weiting Wang
+Weiting Wang, Wanzhao Zhang, Akshat Jain
 
 ## Resources:
 1. [official github](https://github.com/food-hazard-detection-semeval-2025/food-hazard-detection-semeval-2025.github.io) includes baseline and data
@@ -16,3 +16,4 @@ Akshat Jain, Wanzhao Zhang, Weiting Wang
 9. data [augmentation](https://medium.com/walmartglobaltech/augmentation-techniques-for-imbalanced-text-classification-f0d29c0f8ce1)
 10. back [translation](https://dzlab.github.io/dltips/en/pytorch/text-augmentation/)
 11. keyword [extraction](https://www.sciencedirect.com/science/article/abs/pii/S0957417416301464)
+12. Results website [codalab](https://codalab.lisn.upsaclay.fr/competitions/19955)
