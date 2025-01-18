@@ -1,4 +1,4 @@
-# SemEval25-Task9
+# SemEval25-Task9: CICL
 This is repository for [SemEval 2025 Task9 The Food Hazard Detection Challenge](https://food-hazard-detection-semeval-2025.github.io/)
 
 ## Group Members
